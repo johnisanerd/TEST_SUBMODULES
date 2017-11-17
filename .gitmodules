@@ -1,0 +1,3 @@
+[submodule "TEST_SUBMODULES_BINARY"]
+	path = TEST_SUBMODULES_BINARY
+	url = https://github.com/johnisanerd/TEST_SUBMODULES_BINARY
